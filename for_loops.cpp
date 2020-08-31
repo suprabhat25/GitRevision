@@ -56,6 +56,7 @@ int main()
     string s = "understanding the workflow of the git";
     string s1 = "moving inside the staging area."
     string s2 = "writing something to the dev branch";
+    string s3 = "about to merge the dev into master";
     }
 
 }
