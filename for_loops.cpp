@@ -55,6 +55,7 @@ int main()
       if(isprime(n))cout<<1<<" "<<n-1<<endl; // PRIME
     string s = "understanding the workflow of the git";
     string s1 = "moving inside the staging area."
+    string s2 = "writing something to the dev branch";
     }
 
 }
