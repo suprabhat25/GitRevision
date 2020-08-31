@@ -53,7 +53,8 @@ int main()
       cin>>n;
       if(n&1 == 0)cout<<n/2<<" "<<n/2<<endl; // EVEN
       if(isprime(n))cout<<1<<" "<<n-1<<endl; // PRIME
-
+    string s = "understanding the workflow of the git";
+    string s1 = "moving inside the staging area."
     }
 
 }
